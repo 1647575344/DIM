@@ -1,5 +1,7 @@
 ## Next
 
+* The Vault Organizer is now available for D1.
+
 ## 6.11.0 <span className="changelog-date">(2020-05-17)</span>
 
 * Added the Organizer page, which lets you see all your items in a table form, which you can sort and filter (try shift-clicking on a cell!). Add and remove columns and bulk-tag your items to help quickly figure out which items you want to keep and which you can get rid of.
